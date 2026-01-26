@@ -1,0 +1,6 @@
+npm install
+npm install express --save
+npx express-generator
+
+npm install -g pnpm
+pnpm install
