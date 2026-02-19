@@ -1,0 +1,15 @@
+.tab-header {
+    padding: 10px;
+    border-bottom: 1px solid #ccc;
+    margin: 10px;
+}
+
+.tab-content {
+    margin: 10px;
+}
+
+.active{
+    font-weight: bold;
+    color: black;
+    background-color: green;
+}
